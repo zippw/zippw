@@ -1,5 +1,5 @@
-<div align="center">
-    <a href="https://github.com/zippw">
-        <img style="border-radius: 100px" title="Please work" alt="" src="https://functions.yandexcloud.net/d4ebn98i7mtt7p5b96lu" />
-    </a>
-</div>
+<img align="right" width="400px" title="some stats" alt="аэаээаэаэаа(((9(" src="https://functions.yandexcloud.net/d4ebn98i7mtt7p5b96lu"/>
+
+\[about\] ✔ Noname developer
+\[about\] ✔ Noname developer with [portfolio](https://zippw.github.io/)
+\[about\] ✔ ...
