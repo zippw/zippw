@@ -13,6 +13,5 @@
 ### socials
 
 [![Telegram](https://img.shields.io/badge/Telegram-161B22?logoColor=0D1117&labelColor=D2A8FF&style=for-the-badge&logo=telegram)](https://t.me/zippwickness)
-[![Discord ](https://img.shields.io/badge/Discord-161B22?logoColor=0D1117&labelColor=D2A8FF&style=for-the-badge&logo=discord)](https://discord.gg/SKQX3T85SF)
 [![Dribbble](https://img.shields.io/badge/Dribbble-161B22?logoColor=0D1117&labelColor=D2A8FF&style=for-the-badge&logo=dribbble)](https://dribbble.com/zippw)
 [![Steam   ](https://img.shields.io/badge/Steam-161B22?logoColor=0D1117&labelColor=D2A8FF&style=for-the-badge&logo=steam)](https://steamcommunity.com/profiles/76561199633774820/)
