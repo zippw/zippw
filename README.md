@@ -1,6 +1,3 @@
-<img align="right" width="500px" title="some stats" alt="аэаээаэаэаа(((9(" src="https://functions.yandexcloud.net/d4ebn98i7mtt7p5b96lu?max_langs=9&use_default_lang_colors=false&username=zippw"/>
-&nbsp;
-
 ### HeLlO wOrLd, My naMe iS zippw
 
 \[about_me\] Noname developer<br>
@@ -10,8 +7,14 @@
 \[about_me\] favourite color is... yeah<br>
 \[about_me\] ...<br>
 
-### socials
+<div align="left">
+  <h3>socials</h3>
+  <a href="https://dribbble.com/zippw"><img src="https://img.shields.io/badge/Dribbble-161B22?logoColor=0D1117&labelColor=D2A8FF&style=for-the-badge&logo=dribbble" alt="Dribbble"></a>
+  <a href="https://t.me/zippwickness"><img src="https://img.shields.io/badge/Telegram-161B22?logoColor=0D1117&labelColor=D2A8FF&style=for-the-badge&logo=telegram" alt="Dribbble"></a>
+  <a href="https://steamcommunity.com/profiles/76561199633774820/"><img src="https://img.shields.io/badge/Steam-161B22?logoColor=0D1117&labelColor=D2A8FF&style=for-the-badge&logo=steam" alt="Dribbble"></a>
+</div>
 
-[![Telegram](https://img.shields.io/badge/Telegram-161B22?logoColor=0D1117&labelColor=D2A8FF&style=for-the-badge&logo=telegram)](https://t.me/zippwickness)
-[![Dribbble](https://img.shields.io/badge/Dribbble-161B22?logoColor=0D1117&labelColor=D2A8FF&style=for-the-badge&logo=dribbble)](https://dribbble.com/zippw)
-[![Steam   ](https://img.shields.io/badge/Steam-161B22?logoColor=0D1117&labelColor=D2A8FF&style=for-the-badge&logo=steam)](https://steamcommunity.com/profiles/76561199633774820/)
+<div align="left">
+  <h3>Most used languages</h3>
+  <img align="left" width="100%" title="some stats" alt="аэаээаэаэаа(((9(" src="https://functions.yandexcloud.net/d4eb0k7j4rfts2ddmcfi" />
+</div>
