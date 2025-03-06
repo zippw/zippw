@@ -9,9 +9,9 @@
 
 <div align="left">
   <h3>socials</h3>
-  <a href="https://dribbble.com/zippw"><img src="https://img.shields.io/badge/Dribbble-161B22?logoColor=0D1117&labelColor=D2A8FF&style=for-the-badge&logo=dribbble" alt="Dribbble"></a>
-  <a href="https://t.me/zippwickness"><img src="https://img.shields.io/badge/Telegram-161B22?logoColor=0D1117&labelColor=D2A8FF&style=for-the-badge&logo=telegram" alt="Dribbble"></a>
-  <a href="https://steamcommunity.com/profiles/76561199633774820/"><img src="https://img.shields.io/badge/Steam-161B22?logoColor=0D1117&labelColor=D2A8FF&style=for-the-badge&logo=steam" alt="Dribbble"></a>
+  <a href="https://dribbble.com/zippw"><img src="https://img.shields.io/badge/Dribbble-161B22?logoColor=121316&labelColor=F58EE0&style=for-the-badge&logo=dribbble" alt="Dribbble"></a>
+  <a href="https://t.me/zippwickness"><img src="https://img.shields.io/badge/Telegram-161B22?logoColor=121316&labelColor=8EB6F5&style=for-the-badge&logo=telegram" alt="Dribbble"></a>
+  <a href="https://steamcommunity.com/profiles/76561199633774820/"><img src="https://img.shields.io/badge/Steam-161B22?logoColor=121316&labelColor=FFBB88&style=for-the-badge&logo=steam" alt="Dribbble"></a>
 </div>
 
 <div align="left">
